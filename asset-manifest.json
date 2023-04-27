@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/techquiz/static/css/main.941ff345.css",
-    "main.js": "/techquiz/static/js/main.036b2390.js",
+    "main.js": "/techquiz/static/js/main.cadf73ed.js",
     "react-syntax-highlighter/refractor-core-import.js": "/techquiz/static/js/react-syntax-highlighter/refractor-core-import.97699553.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/techquiz/static/js/react-syntax-highlighter_languages_refractor_abap.3da14abc.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/techquiz/static/js/react-syntax-highlighter_languages_refractor_actionscript.f1ff8faf.chunk.js",
@@ -156,7 +156,7 @@
     "react-syntax-highlighter_languages_refractor_yaml.js": "/techquiz/static/js/react-syntax-highlighter_languages_refractor_yaml.4a808994.chunk.js",
     "index.html": "/techquiz/index.html",
     "main.941ff345.css.map": "/techquiz/static/css/main.941ff345.css.map",
-    "main.036b2390.js.map": "/techquiz/static/js/main.036b2390.js.map",
+    "main.cadf73ed.js.map": "/techquiz/static/js/main.cadf73ed.js.map",
     "refractor-core-import.97699553.chunk.js.map": "/techquiz/static/js/react-syntax-highlighter/refractor-core-import.97699553.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.3da14abc.chunk.js.map": "/techquiz/static/js/react-syntax-highlighter_languages_refractor_abap.3da14abc.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.f1ff8faf.chunk.js.map": "/techquiz/static/js/react-syntax-highlighter_languages_refractor_actionscript.f1ff8faf.chunk.js.map",
@@ -312,6 +312,6 @@
   },
   "entrypoints": [
     "static/css/main.941ff345.css",
-    "static/js/main.036b2390.js"
+    "static/js/main.cadf73ed.js"
   ]
 }
